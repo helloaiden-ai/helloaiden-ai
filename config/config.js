@@ -1,6 +1,6 @@
 var config = {
     /* Demo profile data for the template. Replace as needed. */
-    name: "Dengchi Ai",
+    name: " Ai",
     sex: "Male",
     age: "23",
     phone: '+33 1234',
