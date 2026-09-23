@@ -6,29 +6,29 @@ var config = {
     phone: '+33 1234',
     email: "dengchi.ai126@gmail.com",
     address: 'xxxx',
-    qq: '<strong>Template saved you time?</strong> <a href="https://happysnaker.github.io/support/#from-resume" target="_blank">Tip ¥9.9 / ¥19.9 via WeChat / Alipay</a><br><strong>Portfolio still feels generic / student-ish?</strong> <a href="https://happysnaker.github.io/review/" target="_blank">Book a ¥29.9 quick read / ¥99 async review</a>',
-    log: "happysnaker",
+    qq: 'xxxx',
+    log: "Dengchi Ai ",
     excpect_work: "Backend / Infrastructure / Systems Engineering",
 
     motto: [
-        "Build useful things, then explain them clearly.",
-        "Reliability is a feature.",
-        "Keep systems simple, observable, and operable.",
+        "111111",
+        "222222",
+        "333333.",
         "Write less magic, ship more signal.",
         "Good documentation compounds engineering impact."
     ],
 
-    welcome: "Backend / Systems Engineer<br>Go · Java · Distributed Systems<br>Go / Java backend builder<br>Glad to have you here.",
+    welcome: "xxxxxxxx <br>Go · Java · Distributed Systems<br>Go / Java backend builder<br>Glad to have you here.",
 
-    about: "<p>你好，我是 Shirong Lu（happysnaker），专注 Go / Java 后端、分布式系统、RPC、可观测性与工程效率。</p>" +
-        "<p>我持续公开构建可复用的工程资产，例如 Go 服务脚手架、后端工程师成长清单、系统学习笔记与技术博客。</p>" +
-        "<p>近期我也在为 urfave/cli、go-chi/chi、GitHub Docs、Docker Docs、OpenTelemetry 等项目持续提交代码修复与工程相关贡献，把可复用经验沉淀成公开资产。</p>",
+    about: "<p> xxxxx</p>" +
+        "<p>xxxx</p>" +
+        "<p>xxx</p>",
 
     skills: [
-        ["Go", 90, "#00ADD8"],
-        ["Java", 88, "#f89820"],
-        ["Distributed Systems", 85, "#7c3aed"],
-        ["SQL / Storage", 88, "#14b8a6"],
+        ["Python", 90, "#00ADD8"],
+        ["Project Management", 88, "#f89820"],
+        ["Product Management", 85, "#7c3aed"],
+        ["SQL", 88, "#14b8a6"],
         ["Observability", 80, "#22c55e"],
         ["Networking / OS", 78, "#f59e0b"]
     ],
